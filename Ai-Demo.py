@@ -1,4 +1,4 @@
 def greet_user(name):
     print("Hello", name)
-    print("Welcome to Artificial Intelligence!")
+    print("Welcome")
 greet_user("Himanshu")
